@@ -1,0 +1,4 @@
+outs:
+- md5: 7a26a109a95504654fe984991a6b3ff9
+  size: 383
+  path: Dockerfile
